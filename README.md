@@ -76,3 +76,19 @@ This README and dashboard were created as part of a real-world data analysis sim
 - Stakeholder communication
 - Requirements gathering
 - Dashboard design for decision support
+
+
+---
+
+## 📥 How to Download and Open the Dashboard
+
+⚠️ GitHub cannot preview `.twbx` files directly in the browser.
+
+👉 To view the Tableau dashboard:
+
+1. Click on the file `CitiBike_Dashboard.twbx`
+2. Then click **“View raw”** to download the file
+3. Open it using **Tableau Desktop**
+
+
+
